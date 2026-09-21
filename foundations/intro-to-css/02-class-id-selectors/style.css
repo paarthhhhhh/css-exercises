@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+#blu{
+    color: blue;
+    font-size: 36px;
+}
+.red{
+    background-color: rgb(230, 121, 121);
+    font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+}
+.two{
+    font-size: 24px;
+}
+#green{
+    background-color: rgb(126, 238, 126);
+    font-weight: bold;
+    font-size: 24px;
+}
